@@ -1,0 +1,19 @@
+#topbar {
+  background: #f8f6f5;
+  padding: 10px 0;
+  font-size: 14px;
+}
+#topbar .social-links a {
+  color: #65534c;
+  line-height: 0;
+  transition: 0.3s;
+  margin-left: 15px;
+}
+#topbar .social-links a:hover {
+  color: #1fA1BB;
+}
+#footer {
+  background: #f8f6f5;
+  padding: 10px 0;
+  font-size: 14px;
+}

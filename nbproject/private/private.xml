@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/viewDiscipline.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/ViewDisciplineServlet.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/counselorBoard.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/EditCounselingServlet.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/register.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/style.css</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/index.html</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/editCounseling.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/DashboardServlet.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/StudentServlet.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/scheduleCounseling.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/studentDiscipline.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/LoadDisciplineServlet.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/studBoard.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/DisciplineServlet.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/dao/CounselingDao.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/viewCounseling.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/dao/DisciplineDao.java</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/hepBoard.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/login.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/web/addDiscipline.jsp</file>
+            <file>file:/C:/Users/Nazmi/Desktop/Codes/netbeansJava/zdfjhzg/groupProject/src/java/servlet/UpdateCounselingServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
